@@ -6,7 +6,8 @@ This task involves creating a Python function pascal_triangle(n) that generates 
 
 ## Function Specifications:
 The function should return an empty list if n is less than or equal to 0.
-n is assumed to always be an integer.
+
+```n``` is assumed to always be an integer.
 
 **Example:**
 For n = 5, the expected output would be:
