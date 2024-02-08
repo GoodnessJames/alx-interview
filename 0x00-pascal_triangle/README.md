@@ -1,6 +1,9 @@
 # Pascal's Triangle
 Pascal's triangle is a mathematical concept that generates a triangular array of numbers, with each row representing the coefficients of the binomial expansion (x + y)^n. The triangle starts with a single value of 1 at the top, and each subsequent row is constructed by summing adjacent elements from the row above.
 
+## Project Timeline
+**Timeline for 1st and 2nd second deadline of submission:** Feb 5, 2024 6:00 AM to Feb 11, 2024 6:00 AM
+
 ## Task Overview
 This task involves creating a Python function ```pascal_triangle(n)``` that generates Pascal's triangle up to the nth row. The function should return a list of lists of integers, where each inner list represents a row of the triangle.
 
